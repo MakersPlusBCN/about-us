@@ -8,6 +8,7 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 
 ## CORE
 [Actas 2025](CORE/Actas/2025.md) - Nos reunimos cada martes en Akasha Hub+
+
 [Topics](CORE/topics.md) - Propuestas de temas y/o actividades para realizar  
 
 
