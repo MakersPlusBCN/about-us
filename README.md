@@ -6,11 +6,8 @@
 Aquí encontrarás mas información sobre nosotros y como puedes unirte 
 
 
-## ON GOING 
-
-### Core
+## CORE
 [Actas](CORE/Actas/2025.md) - Nos reunimos cada martes en Akasha Hub+ 
-
 
 
 #### Actividades en progreso 
