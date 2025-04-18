@@ -19,5 +19,9 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 - [ ] Definición Next Steps proyecto Aether
 - [ ] Definición acuerdos para documentar y estructura 
 
-### Meetups 
+
+## COMMUNITY 
+Espacio abierto donde organizamos actividades para personas que no pueden unirse de forma regular
+
+### Meetups
 --- Coming Soon --- 
