@@ -13,10 +13,10 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 
 
 #### Actividades en progreso 
-- [ ] Propuesta gráfica para logo Makers+
-- [ ] Propuesta gráfica para compartir nuestro manifiesto (web & fanzine)
-- [ ] Definir Next Steps proyecto Aether
-- [ ] Definición: acuerdos para documentar y estructura 
+![Static Badge](https://img.shields.io/badge/Propuesta%20gr%C3%A1fica%20para%20logo%20Makers%2B-violet)
+![Static Badge](https://img.shields.io/badge/Propuesta%20gr%C3%A1fica%20para%20compartir%20nuestro%20manifiesto%20(web%20%26%20fanzine)-violet)
+![Static Badge](https://img.shields.io/badge/Definir%20Next%20Steps%20proyecto%20Aether-violet)
+![Static Badge](https://img.shields.io/badge/Definici%C3%B3n%3A%20acuerdos%20para%20documentar%20y%20estructura-violet)
 
 
 ## COMMUNITY 
