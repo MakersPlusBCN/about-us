@@ -9,10 +9,11 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 ## ON GOING 
 
 ### Core
-Nos reunimos cada martes en Akasha Hub+ 
-[Actas](CORE/Actas/2025.md)
+[Actas](CORE/Actas/2025.md) - Nos reunimos cada martes en Akasha Hub+ 
 
-Actividades en progreso: 
+
+
+#### Actividades en progreso 
 - [ ] Propuesta gráfica para logo Makers+
 - [ ] Propuesta gráfica para compartir nuestro manifiesto (web & fanzine)
 - [ ] Definición Next Steps proyecto Aether
