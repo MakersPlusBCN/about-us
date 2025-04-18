@@ -10,6 +10,7 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 
 ### Core
 Nos reunimos cada martes en Akasha Hub+ 
+[Actas](CORE/Actas/2025.md)
 
 Actividades en progreso: 
 - [ ] Propuesta gráfica para logo Makers+
