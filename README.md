@@ -25,6 +25,13 @@ Espacio abierto donde organizamos actividades para personas que no pueden unirse
 ## TOOLKIT 
 Listado herramientas makers
 
+## PROYECTOS 
 
-### Meetups
+### Aether 
+https://github.com/MakersPlusBCN/aether-brain
+
+https://github.com/MakersPlusBCN/aether-wristband
+
+
+## Meetups
 --- Coming Soon --- 
