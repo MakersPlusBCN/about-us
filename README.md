@@ -27,10 +27,7 @@ Listado herramientas makers
 
 ## PROYECTOS 
 
-### Aether 
-https://github.com/MakersPlusBCN/aether-brain
-
-https://github.com/MakersPlusBCN/aether-wristband
+[Aether 2024-Now](CORE/PROYECTOS/Aether.md)
 
 
 ## Meetups
