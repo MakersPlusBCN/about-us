@@ -27,7 +27,7 @@ Listado herramientas makers
 
 ## PROYECTOS 
 
-[Aether 2024-Now](CORE/PROYECTOS/Aether.md)
+[Aether 2024-Now](PROYECTOS/Aether.md)
 
 
 ## Meetups
