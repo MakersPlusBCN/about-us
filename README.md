@@ -5,12 +5,10 @@
 
 Aquí encontrarás mas información sobre nosotros y como puedes unirte 
 
-
 ## CORE
 [Actas 2025](CORE/Actas/2025.md) - Nos reunimos cada martes en Akasha Hub+
 
 [Topics](CORE/topics.md) - Propuestas de temas y/o actividades para realizar  
-
 
 #### Actividades en progreso 
 ![Static Badge](https://img.shields.io/badge/Propuesta%20gr%C3%A1fica%20para%20logo%20Makers%2B-violet)
@@ -21,6 +19,8 @@ Aquí encontrarás mas información sobre nosotros y como puedes unirte
 
 ## COMMUNITY 
 Espacio abierto donde organizamos actividades para personas que no pueden unirse de forma regular
+### Meetups
+--- Coming Soon --- 
 
 ## TOOLKIT 
 Listado herramientas makers
@@ -31,5 +31,3 @@ Listado herramientas makers
 [Aether 2024-Now](PROYECTOS/Aether.md)
 
 
-## Meetups
---- Coming Soon --- 
