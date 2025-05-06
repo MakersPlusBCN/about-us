@@ -26,6 +26,7 @@ Espacio abierto donde organizamos actividades para personas que no pueden unirse
 Listado herramientas makers
 
 ## PROYECTOS 
+[Akasha aniversario 2023](https://github.com/MakersPlusBCN/akasha-aniversario-2023)
 
 [Aether 2024-Now](PROYECTOS/Aether.md)
 
